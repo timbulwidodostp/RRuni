@@ -1,6 +1,8 @@
 # RRuni
 Univariate analysis of randomized response data Use RRuni (RRreg) With (In) R Software
 
+https://www.youtube.com/watch?v=rRmgYBsha6I
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
